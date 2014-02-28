@@ -743,7 +743,12 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.viewport.WindowsPhone": [
     "Ext.viewport.WP"
   ],
-  "WorkShop2.view.Main": []
+  "WorkShop2.controller.controller_MainApp": [],
+  "WorkShop2.model.model_MainApp": [],
+  "WorkShop2.store.store_MainApp": [],
+  "WorkShop2.view.Main": [],
+  "WorkShop2.view.view_AboutUs": [],
+  "WorkShop2.view.view_MainApp": []
 });
 Ext.ClassManager.addNameAliasMappings({
   "Ext.AbstractComponent": [],
@@ -1687,7 +1692,16 @@ Ext.ClassManager.addNameAliasMappings({
   "Ext.viewport.Ios": [],
   "Ext.viewport.Viewport": [],
   "Ext.viewport.WindowsPhone": [],
+  "WorkShop2.controller.controller_MainApp": [],
+  "WorkShop2.model.model_MainApp": [],
+  "WorkShop2.store.store_MainApp": [],
   "WorkShop2.view.Main": [
     "widget.main"
+  ],
+  "WorkShop2.view.view_AboutUs": [
+    "widget.wg_view_AboutUs"
+  ],
+  "WorkShop2.view.view_MainApp": [
+    "widget.wg_view_MainApp"
   ]
 });
